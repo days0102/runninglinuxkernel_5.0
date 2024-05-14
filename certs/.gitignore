@@ -2,3 +2,5 @@
 # Generated files
 #
 x509_certificate_list
+
+signing_key.x509
